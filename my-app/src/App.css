@@ -1,0 +1,72 @@
+
+*{
+  box-sizing: border-box;
+background-color: antiquewhite;
+}
+
+
+.up-konteks{
+  display: flex;
+}
+.person{
+
+
+  border-right: 1px solid green;
+  border-bottom:1px solid;
+  border-left: 1px solid;
+
+  padding-left: 10px;
+ 
+  padding-right: 10px;
+}
+.person-tittle{
+
+  background-color: orange;
+  margin-top: -2px;
+  margin-right: 10px;
+  height: 30px;
+  text-align:center;
+  padding-top: 5px;
+  font-weight: bold;
+
+
+}
+.children{
+ 
+ 
+  
+   padding-left: 10px;
+}
+.children-title{
+  background-color: orange;
+  margin-top: -2px;
+
+  height: 30px;
+  padding-left: 20px;
+
+  padding-top: 5px;
+  font-weight: bold;
+}
+
+.children-konteks{
+  display: flex;
+}
+.children-down-tittle{
+  background-color: orange;
+  height: 30px;
+  padding-left: 20px;
+  padding-top: 6px;
+  font-weight: bold;
+  margin-top: 15px;
+width: 1150px;
+}
+.friend{
+  margin-left: 10px;
+
+}
+
+.friend-kontek{
+ display: flex;
+ 
+ 
+}
